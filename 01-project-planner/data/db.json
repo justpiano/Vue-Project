@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage navbar",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Publish a new post",
+      "details": "Lorem ipsum",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "Read Vue documentation",
+      "details": "Lorem ipsum",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
